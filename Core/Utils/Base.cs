@@ -4,6 +4,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.IE;
+using OpenQA.Selenium.PhantomJS;
 using SeleniumCore.Pages;
 using System.Configuration;
 
@@ -70,6 +71,9 @@ namespace SeleniumCore
                 case "IE":
                     System.Environment.SetEnvironmentVariable("webdriver.ie.driver", Constant.PATH_TO_IE_DRIVER_SERVER);
                     driver = new InternetExplorerDriver();
+                    break;
+                case "Phantom":
+                    driver = new PhantomJSDriver();
                     break;
                 default:
                     driver = new ChromeDriver();
