@@ -1,0 +1,13 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\obj\Debug\SeleniumCore.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\bin\Debug\Core.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\bin\Debug\Core.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\bin\Debug\WebDriver.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\bin\Debug\WebDriver.Support.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\bin\Debug\WebDriver.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\bin\Debug\WebDriver.Support.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\obj\Debug\Core.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\obj\Debug\Core.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\bin\Debug\nunit.framework.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\Core\bin\Debug\nunit.framework.xml

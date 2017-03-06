@@ -1,0 +1,9 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\geckodriver.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Core.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Core.pdb
